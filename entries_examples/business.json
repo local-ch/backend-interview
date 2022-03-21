@@ -1,0 +1,120 @@
+{
+  "_id": "a65HUq_fWrxFknPvrBgmVw",
+  "type": "business",
+  "business_name": {
+    "de": "Angelis Reinigungen GmbH"
+  },
+  "preferred_language": "de",
+  "address": {
+    "house_number": "6a",
+    "street": "Brunnwiesenstrasse",
+    "zipcode": "8157",
+    "city": "Dielsdorf",
+    "region": "ZH",
+    "country": "CH"
+  },
+  "geo_area": {
+    "zipcode": [
+      {
+        "id": "area-11070",
+        "type": "geoarea",
+        "geo_area_data": {
+          "geoarea_type": "zipcode",
+          "zipcode_number": "8157"
+        },
+        "name": {
+          "de": "Dielsdorf"
+        },
+        "default_language": "de",
+        "description": "Dielsdorf",
+        "alternative_names": [
+        ]
+      }
+    ],
+    "country": [
+      {
+        "id": "area-150",
+        "type": "geoarea",
+        "geo_area_data": {
+          "geoarea_type": "country",
+          "iso_code": "CH"
+        },
+        "name": {
+          "rm": "Svizra",
+          "it": "Svizzera",
+          "fr": "Suisse",
+          "de": "Schweiz",
+          "en": "Switzerland"
+        },
+        "description": "Schweiz/Suisse",
+        "alternative_names": [
+          "CH"
+        ]
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "m7X-YRbLgF0trFcEP8f40Q",
+      "type": "service",
+      "assets": {
+        "opening_hours": [
+          {
+            "id": "MPM6tg_pchAZfbucUdPHdg",
+            "type": "asset",
+            "asset_data": {
+              "asset_type": "opening_hours",
+              "days": {
+                "monday": [
+                  {
+                    "start": "07:00",
+                    "end": "12:00",
+                    "type": "TIME_RANGE"
+                  },
+                  {
+                    "start": "13:00",
+                    "end": "17:00",
+                    "type": "TIME_RANGE"
+                  }
+                ],
+                "tuesday": [
+                  {
+                    "start": "07:00",
+                    "end": "12:00",
+                    "type": "TIME_RANGE"
+                  },
+                  {
+                    "start": "13:00",
+                    "end": "17:00",
+                    "type": "TIME_RANGE"
+                  }
+                ],
+                "wednesday": [
+                  {
+                    "start": "07:00",
+                    "end": "12:00",
+                    "type": "TIME_RANGE"
+                  }
+                ],
+                "thursday": [
+                  {
+                    "start": "07:00",
+                    "end": "12:00",
+                    "type": "TIME_RANGE"
+                  }
+                ],
+                "friday": [
+                  {
+                    "start": "07:00",
+                    "end": "12:00",
+                    "type": "TIME_RANGE"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
