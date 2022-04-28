@@ -12,55 +12,6 @@
     "region" : "BE",
     "country" : "CH"
   },
-  "geo_area" : {
-    "zipcode" : [
-      {
-        "id" : "area-6650",
-        "type" : "geoarea",
-        "geo_area_data" : {
-          "geoarea_type" : "zipcode",
-          "zipcode_number" : "3173"
-        },
-        "name" : {
-          "de" : "Oberwangen b. Bern"
-        },
-        "default_language" : "de",
-        "description" : "Oberwangen b. Bern",
-        "alternative_names" : [
-          "Liebewil"
-        ]
-      }
-    ],
-    "country" : [
-      {
-        "id" : "area-150",
-        "type" : "geoarea",
-        "links" : {
-          "self" : {
-            "href" : "https://entity-service-stg.local-stg.cloud/api/v1/geo_entries/area-150"
-          },
-          "entity" : {
-            "href" : "https://entity-service-stg.local-stg.cloud/api/v1/entities/area-150"
-          }
-        },
-        "geo_area_data" : {
-          "geoarea_type" : "country",
-          "iso_code" : "CH"
-        },
-        "name" : {
-          "rm" : "Svizra",
-          "it" : "Svizzera",
-          "fr" : "Suisse",
-          "de" : "Schweiz",
-          "en" : "Switzerland"
-        },
-        "description" : "Schweiz/Suisse",
-        "alternative_names" : [
-          "CH"
-        ]
-      }
-    ]
-  },
   "assets" : {
     "phone_number" : [
       {
