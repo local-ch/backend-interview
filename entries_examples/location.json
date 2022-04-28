@@ -11,46 +11,5 @@
   },
   "location_name" : {
     "de" : "Mediacampus"
-  },
-  "geo_area" : {
-    "zipcode" : [
-      {
-        "id" : "area-10902",
-        "type" : "geoarea",
-        "geo_area_data" : {
-          "geoarea_type" : "zipcode",
-          "zipcode_number" : "8048"
-        },
-        "name" : {
-          "de" : "Zürich"
-        },
-        "default_language" : "de",
-        "description" : "Zürich",
-        "alternative_names" : [
-          "Zurich 48"
-        ]
-      }
-    ],
-    "country" : [
-      {
-        "id" : "area-150",
-        "type" : "geoarea",
-        "geo_area_data" : {
-          "geoarea_type" : "country",
-          "iso_code" : "CH"
-        },
-        "name" : {
-          "rm" : "Svizra",
-          "it" : "Svizzera",
-          "fr" : "Suisse",
-          "de" : "Schweiz",
-          "en" : "Switzerland"
-        },
-        "description" : "Schweiz/Suisse",
-        "alternative_names" : [
-          "CH"
-        ]
-      }
-    ]
   }
 }
